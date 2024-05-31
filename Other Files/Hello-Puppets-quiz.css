@@ -240,12 +240,12 @@ height: 300px;
 
 .questionEight {
   border: 4px solid crimson;
-  width: 450px;
+  width: 250px;
   transition: width 2s, transform 2s;
 }
 
 .questionEight:hover {
-  width: 600px;
+  width: 400px;
 }
 
 .questionNine {
